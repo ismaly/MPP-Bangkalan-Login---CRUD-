@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #89eae9; */
+}
+.navbar {
+    background-color: #008080;
+}
+.navbar a, .navbar .navbar-brand {
+    color: #ffffff !important;
+}
+.btn-primary {
+    background-color: #008080;
+    border-color: #008080;
+}
+.btn-primary:hover {
+    background-color: #006666;
+    border-color: #006666;
+}
+.card {
+    border-color: #008080;
+}
+.card-header {
+    background-color: #008080;
+    color: #ffffff;
+}
